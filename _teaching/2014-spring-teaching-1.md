@@ -9,11 +9,3 @@ location: "TU Dresden, Germany"
 ---
 This course provides an introduction to various central theoretical concepts of public and international economics that are utilized in economics master modules of higher semesters.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
