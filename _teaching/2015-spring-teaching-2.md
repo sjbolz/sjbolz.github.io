@@ -1,20 +1,9 @@
----
-title: "Teaching experience 2"
+title: "Economics of Inequality (German)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master's level"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Faculty of Business and Economics, TU Dresden"
+date: Summer 2021, Summer 2022, Summer 2024
+location: "TU Dresden, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course offers an introduction to the theory and policy of the causes and combating of economic inequality. After an introduction to the problems of quantitatively recording this concept, various approaches to explaining income differences are discussed. Building on the normative assessment of these differences, the basic problems of designing distribution policy measures are presented and discussed.
