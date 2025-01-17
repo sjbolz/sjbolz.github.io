@@ -5,12 +5,19 @@ permalink: /contact/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<div class="contact-info">
+    <h2>Contact Information</h2>
+    <address>
+        <p><strong>Office:</strong></p>
+        <p>
+            Dresden University of Technology<br>
+            Faculty of Business and Economics<br>
+            Chair of Economics, esp. Economic Policy and Economic Research<br>
+            Schumann-Building, SCH C 262
+        </p>
+        <p><strong>Email:</strong> <a href="mailto:simon.bolz@tu-dresden.de">simon.bolz@tu-dresden.de</a></p>
+        <p><strong>Phone:</strong> <a href="tel:+4935146334490">+49 351 463 34490</a></p>
+    </address>
+</div>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
