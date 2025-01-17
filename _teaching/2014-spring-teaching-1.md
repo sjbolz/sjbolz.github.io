@@ -1,8 +1,8 @@
 ---
 title: "Public and International Economic Theory"
-collection: teaching
+collection: 
 type: "Master's level"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "Faculty of Business and Economics, TU Dresden"
 date: Winter 2022, Winter 2023, Winter 2024
 location: "TU Dresden, Germany"
