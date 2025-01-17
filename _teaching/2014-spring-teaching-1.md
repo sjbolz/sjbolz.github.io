@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Public and International Economic Theory"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's level"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Faculty of Business and Economics, TU Dresden"
+date: Winter 2022, Winter 2023, Winter 2024
+location: "TU Dresden, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides an introduction to various central theoretical concepts of public and international economics that are utilized in economics master modules of higher semesters.
 
 Heading 1
 ======
