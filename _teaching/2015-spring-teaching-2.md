@@ -1,6 +1,6 @@
 title: "Economics of Inequality (German)"
 collection: teaching
-type: "Master's level"
+type: "Bachelor's level"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Business and Economics, TU Dresden"
 date: Summer 2021, Summer 2022, Summer 2024
