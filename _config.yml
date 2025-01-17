@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Simon J. Bolz"
 excerpt                  : "I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology. Specializing in applied microeconomics..."
-seo_title                : "Personal Website of Marius Kroeper (Kröper), Applied Economics, econ"
+seo_title                : "Personal Website of Simon J Bolz, Environmental Economics, econ"
 seo_description          : "I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology. Specializing in applied microeconomics..."
 title_separator          : "-"
 name                     : &name "Simon J. Bolz"
@@ -87,9 +87,10 @@ author:
   avatar           : "profile.png"
   bio              : Research Assistant/ <br> PhD Student <br> Economics
   location         : "Dresden, GER"
-  employer         : "https://tu-dresden.de/bu/wirtschaft/vwl/wuw"
+  employer         : "
+https://tu-dresden.de/bu/wirtschaft/vwl/wuw/die-professur/mitarbeiter/simon-johannes-bolz"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.de/citations?user=1p28cv4AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=iYs1XG4AAAAJ&hl=de"
   email            : simon.bolz@tu-dresden.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,14 +106,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "marius-kröper-2915931b6"
+  linkedin         : "simon-johannes-bolz/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MKroeper"
+  twitter          : "simon_bolz"
   vine             :
   weibo            :
   xing             :
