@@ -19,4 +19,4 @@ I am currently working as a [research associate](https://tu-dresden.de/bu/wirtsc
 
 ### VFS Annual Conference 2025 – University of Cologne  
 **Theme:** *Revival of Industrial Policy*  
-📅 *14–19 September 2025*
+📅 *14–17 September 2025*
