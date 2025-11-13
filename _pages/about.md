@@ -21,6 +21,6 @@ We study how a unilateral increase in CO₂ taxes affects global emissions, inco
 ---
 
 ### 🧩 New research grant participation: IGC project on CBAM & India’s steel sector  
-I am pleased to announce that I am now participating in the International Growth Centre (IGC) research project titled **“Impacts of the EU Carbon Border Adjustment Mechanism (CBAM) on India’s steel sector: Challenges, incentives, and pathways towards domestic carbon pricing.”** :contentReference[oaicite:1]{index=1}
+I am pleased to announce that I am now participating in the International Growth Centre (IGC) research project titled **“Impacts of the EU Carbon Border Adjustment Mechanism (CBAM) on India’s steel sector: Challenges, incentives, and pathways towards domestic carbon pricing.”** 
 
 🔗 [More about the project](https://www.theigc.org/collections/impacts-eu-carbon-border-adjustment-mechanism-cbam-indias-steel-sector-challenges)  
