@@ -10,13 +10,10 @@ redirect_from:
 
 I am currently working as a [research associate](https://tu-dresden.de/bu/wirtschaft/vwl/wuw/die-professur/mitarbeiter/simon-johannes-bolz) and pursuing my Ph.D. in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology, Germany. My research centers on the intersection of international trade and environmental economics, with a particular emphasis on firm heterogeneity. Extending trade models by emission generation, I analyze the impacts of policy measures, such as unilateral carbon pricing, border carbon adjustments and trade liberalization on aggregate carbon emissions and overall welfare. Additionally, I am working with Indian firm-level data to investigate how companies' engagement in importing and exporting influences their environmental impact. I am also teaching exercise classes in Public and International Economic Theory (Winter) as well as Economics of Inequality (Summer). 
 
-## Upcoming Conference Presentations
+## News
 
-### ETSG 2025 – Milan  
-**26th Annual Conference**  
-📅 *11–13 September 2025*  
-📍 *Politecnico di Milano*
+### 📘 Publication in the *Journal of International Economics*  
+Our paper **“Unilateral Environmental Policy and Offshoring”** has been published in the *Journal of International Economics*.  
+We study how a unilateral increase in CO₂ taxes affects global emissions, income, and inequality. Using a general equilibrium model with heterogeneous firms and offshoring, we show that under certain conditions, uncoordinated climate policy can backfire—raising global emissions instead of reducing them. This highlights the need for stronger international coordination between climate and trade policies.  
 
-### VFS Annual Conference 2025 – University of Cologne  
-**Theme:** *Revival of Industrial Policy*  
-📅 *14–17 September 2025*
+🔗 [Read the paper (Open Access)](https://doi.org/10.1016/j.jinteco.2025.104185)
