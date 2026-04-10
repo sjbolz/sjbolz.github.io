@@ -19,6 +19,13 @@ We study how a unilateral increase in CO₂ taxes affects global emissions, inco
 🔗 [Read the paper (Open Access)](https://doi.org/10.1016/j.jinteco.2025.104185)
 
 ---
+### 🎤 Upcoming conference presentations  
+I will be presenting my research at two upcoming international conferences:
+
+- **Conference on Sustainable Resource Use and Economic Dynamics**, June 2026, Ascona, Switzerland (invited)
+- **World Congress of Environmental and Resource Economists**, July 2026, Lisbon, Portugal (invited)  
+
+---
 
 ### 🧩 New research grant participation: IGC project on CBAM & India’s steel sector  
 I am pleased to announce that I am now participating in the International Growth Centre (IGC) research project titled **“Impacts of the EU Carbon Border Adjustment Mechanism (CBAM) on India’s steel sector: Challenges, incentives, and pathways towards domestic carbon pricing.”** 
