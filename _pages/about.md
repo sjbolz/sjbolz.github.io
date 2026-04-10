@@ -17,6 +17,13 @@ Our paper **“Unilateral Environmental Policy and Offshoring”** has been publ
 We study how a unilateral increase in CO₂ taxes affects global emissions, income, and inequality. Using a general equilibrium model with heterogeneous firms and offshoring, we show that under certain conditions, uncoordinated climate policy can backfire—raising global emissions instead of reducing them. This highlights the need for stronger international coordination between climate and trade policies.  
 
 🔗 [Read the paper (Open Access)](https://doi.org/10.1016/j.jinteco.2025.104185)
+---
+
+### 🎥 60-second video pitch  
+I present a short video pitch of our paper **“Welfare-optimal policy response to border carbon adjustments: An emerging economy perspective.”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10b9yP_DF6g" 
+title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 ### 🎤 Upcoming conference presentations  
